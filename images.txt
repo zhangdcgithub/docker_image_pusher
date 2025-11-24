@@ -1,1 +1,2 @@
 tomcat
+nacos/nacos-server:2.5.2
